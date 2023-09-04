@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    //This is Third Change for Master Branch GitHub from VSsCode
     public class Category
     {
         public int CategoryId { get; set; }
