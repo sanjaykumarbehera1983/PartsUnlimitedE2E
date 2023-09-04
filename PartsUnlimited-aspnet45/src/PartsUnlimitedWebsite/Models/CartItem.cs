@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    //This is First Change for Master Branch GitHub from VS Code
     public class CartItem : ILineItem
     {
         [Key]
